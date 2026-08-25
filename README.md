@@ -1,5 +1,5 @@
 # Ex04 Simple Calculator - React Project
-## Date:24/08/2026
+## Date:25/08/2026
 ## Name: SACHIN S.B
 ## Reg No : 212225040353
 
